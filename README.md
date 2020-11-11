@@ -4,4 +4,4 @@
 
 ![Sonner](https://github.com/Leonel15/Calculadora/blob/master/sonner.png)
 
-Autor: Lenon Leonel
+
